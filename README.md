@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big software industurie
 - 📫 How to reach me in mail
 
-my website : https://danysam-portfolio.netlify.app/
+ Website : https://danysam-portfolio.netlify.app/
 
 Connect with me:
 https://www.linkedin.com/in/syed-momin-danysam04/
