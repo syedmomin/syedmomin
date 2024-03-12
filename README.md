@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular 12
 - 💞️ I’m looking to collaborate on big software industurie
-- 📫 How to reach me in mail 
+- 📫 How to reach me in mail
+
+my website : https://danysam-portfolio.netlify.app/
 
 Connect with me:
 https://www.linkedin.com/in/syed-momin-danysam04/
